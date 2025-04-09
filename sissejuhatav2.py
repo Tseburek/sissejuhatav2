@@ -1,5 +1,5 @@
 #projektis peab olema pildid nimedega "background" ning "youwin"
-
+#GITHUB: https://github.com/Tseburek/sissejuhatav2
 import pygame
 import time
 pygame.init()
